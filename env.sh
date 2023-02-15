@@ -1,0 +1,1 @@
+export GCP_PROJECT="hand-made-auto-scaling"
